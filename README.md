@@ -15,9 +15,9 @@ The Stop-Signal task (Verbruggen & Logan, 2008) models both action and inhibitio
 
 
 ## Glossary of Terms<a name="glossary-of-terms"/>
-**SST** - Stop-signal task
-**SSRT** - Stop-signal response time
-**SSD** - Stop-signal delay
+**SST** - Stop-signal task  
+**SSRT** - Stop-signal response time  
+**SSD** - Stop-signal delay  
 
 ## Task Description<a name="task-description"/>
 The SST consists of two trial types: "go" trials and "stop" trials. Every trial began with the presentation of PRC (500 ms), followed by a “go” cue consisting of an arrow pointing left or right (1000 ms; 1:1 ratio) indicating whether the participant should press a button with the left or right index finger. Trials are followed by and intertrial interval of variable duration (M = 1400 ms jittered following a gamma distribution). Each run consists of 128 trials (32 stop trials) and lasts approximately 6 minutes.
