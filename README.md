@@ -12,6 +12,7 @@ The Stop-Signal task (Verbruggen & Logan, 2008) models both action and inhibitio
 - [Standard Instructions](#standard-instructions)
 - [Task Adaptivity](#task-adaptivity)
 - [Outcome Measures](#outcome-measures)
+- [Task Output Key](/experiment/task_output_key.md)
 
 
 ## Glossary of Terms<a name="glossary-of-terms"/>
