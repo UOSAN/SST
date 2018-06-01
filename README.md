@@ -4,8 +4,8 @@ The Stop-Signal task (Verbruggen & Logan, 2008) models both action and inhibitio
 
 
 ## Table of Contents
-- [Experiment Scripts](/experiment/README.m)
-- [Analysis Scripts](/scripts/README.m)
+- [Experiment Scripts](/experiment/README.md)
+- [Analysis Scripts](/scripts/README.md)
 - [Project Status](#project-status)
 - [Glossary of Terms](#glossary-of-terms)
 - [Task Description](#task-description)
