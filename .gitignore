@@ -1,2 +1,5 @@
 #Ignore output
 output
+
+# macOS resource files
+.DS_Store
