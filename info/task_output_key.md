@@ -20,4 +20,4 @@ The `Seeker` variable contains the subject responses and task output described b
 - **Column 13**: the elapsed time since the beginning of the block at moment when arrows are shown (this value appears to be always 0)
 - **Column 14**: the actual SSD for error check (time from arrow displayed to beep played) (sec)
 - **Column 15**: the duration of the trial from trialcode (sec)
-- **Column 16**: the start time of the trial (sec)
+- **Column 16**: the start time of the trial (sec). This time is prepopulated from the ladder/input files and is not logged in real time during the task.
