@@ -8,7 +8,7 @@ The `Seeker` variable contains the subject responses and task output described b
 - **Column 1**: trial number
 - **Column 2**: the numchunks number (1-NUMCHUNKS)
 - **Column 3**: trial type. 0 = Go, 1 = NoGo, 2 = null trial, 3 = no-trial.
-- **Column 4**: stimulus presented. 0 = left arrow, 1 = right arrow, 2 = null or cue is displayed
+- **Column 4**: stimulus presented. 0 = cue followed by left arrow, 1 = cue followed by right arrow, 2 = blank screen (null trial)
 - **Column 5**: the ladder number (1 or 2)
 - **Column 6**: the value currently in "LadderX", corresponding to SSD (msec)
 - **Column 7**: the subject response as a keycode (no response is 0)
