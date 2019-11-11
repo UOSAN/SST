@@ -16,8 +16,8 @@ The `Seeker` variable contains the subject responses and task output described b
 - **Column 9**: the reaction time (sec)
 - **Column 10**: the actual SSD (for error-check) (this value appears to be always 0)
 - **Column 11**: the actual SSD plus time taken to run the command (this value appears to be always 0)
-- **Column 12**: the absolute time since beginning of task that trial begins (sec)
+- **Column 12**: the absolute time since beginning of task that trial begins (sec). The absolute time and start time of trial in column 16 should be similar, but not exactly the same.
 - **Column 13**: the elapsed time since the beginning of the block at moment when arrows are shown (this value appears to be always 0)
 - **Column 14**: the actual SSD for error check (time from arrow displayed to beep played) (sec)
 - **Column 15**: the duration of the trial from trialcode (sec). The duration is prepopulated from the ladder/input files and is not logged in real time during the task.
-- **Column 16**: the start time of the trial (sec)
+- **Column 16**: the start time of the trial (sec). The start time is prepopulated from the ladder/input files and is not logged in real time during the task.
